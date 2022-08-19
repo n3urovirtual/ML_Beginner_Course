@@ -1,5 +1,7 @@
 # Machine Learning Beginner Course
-Education material for those who want to dive into Machine Learning Using Python.
+Useful resources for those who want to dive into Machine Learning Using Python. 
+
+All the scripts in this repo have been formatted using the [Black Code Style](https://black.readthedocs.io/en/stable/index.html), a PEP 8 compliant opinionated formatter. 
 
 ## Table of contents
 | Technique     | Algorithm     | Type of problem |
