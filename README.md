@@ -3,18 +3,18 @@ Education material for those who want to dive into Machine Learning Using Python
 
 | Category     | Algorithm     | Type of problem |
 | :------------- | :------------- | :----------------|
-| [Supervised]()          | Classification  | Logistic Regression|
-|                                                                                               |   | K-Nearest Neighbors (KNN)|
-|                                                                                               |   | Support Vector Machines (SVM)|
-|                                                                                               |   | Decision Trees|
-|                                                                                               |   | Naïve Bayes|
-|                                                                                               |   | K-Nearest Neighbors|
-|                                                                                               |   | Perceptron|
-|                                                                                               |   | Artificial Neural Networks|
-|                                                                                               | Regression  | Linear Regression|
-|                                                                                               |   | Polynomial Regression|
-| [Unsupervised]()          | Clustering  | K-Means|
-|                           |   | Agglomerative Hierarchical|
+| Supervised          | [Classification]()  | [Logistic Regression]()|
+|                     | ^                   | [K-Nearest Neighbors (KNN)]()|
+|                     | ^                   | [Support Vector Machines (SVM)]()|
+|                     | ^                   | [Decision Trees]()|
+|                     | ^                   | [Naïve Bayes]()|
+|                     | ^                   | [K-Nearest Neighbors]()|
+|                     | ^                   | [Perceptron]()|
+|                     | ^                   | [Artificial Neural Networks]()|
+|                     | [Regression]()      | [Linear Regression]()|
+|                     | ^                   | [Polynomial Regression]()|
+| Unsupervised        | [Clustering]()      | [K-Means]()|
+|                     | ^                   | [Agglomerative Hierarchical]()|
 
 
 
