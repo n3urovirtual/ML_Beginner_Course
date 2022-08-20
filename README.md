@@ -1,7 +1,7 @@
 # Machine Learning Beginner Course
 
 ## Backstory
-Since the early days of my undergraduate studies, I have been fascinated by predictive models. In 2018 I decided to dive into the world of Machine Learning. Despite the fact that I had a solid statistics background the abundance of information and resources made it difficult to decide from where to start and what to learn. Thus, I decided to collate all the resources I found available and curate my own educational material. In this repo I share what I consider to be a ΄Primer on Machine Learning using Python΄, hoping that other people (mainly coming from non-ML-related backgrounds) will find it useful. 
+Since the early days of my undergraduate studies, I have been fascinated by predictive models. In 2018 I decided to deep dive into the world of Machine Learning. Despite the fact that I had a solid statistics background the abundance of information and resources made it difficult to decide from where to start and what to learn. Thus, I decided to collate all the resources I found available and curate my own educational material. In this repo I share what I consider to be a ΄Primer on Machine Learning using Python΄, hoping that other people (mainly coming from non-ML-related backgrounds) will find it useful. 
 
 ## Description
 In this project you will find all the basic [Machine Learning algorithms](https://github.com/n3urovirtual/ML_Beginner_Course/tree/main/ML%20Algorithms) (as shown in the Table of contents below) implemented in Python. Each folder contains: 
