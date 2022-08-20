@@ -10,7 +10,7 @@ In this project you will find all the basic [Machine Learning algorithms](https:
 3) A description file which provides information about the dataset and the given task/problem based on the type of the algorithm. 
 4) Some folders also contain a 2nd toy dataset together with its description. The 2nd dataset can be used for experimentation during the learning process. 
 
-Additionally, you will find a brief [Intro to Python](https://github.com/n3urovirtual/ML_Beginner_Course/tree/main/Basic%20Python%20Tutorial) intended for people with no prior experience in Python. 
+Additionally, you will find a brief [Intro to Python](https://github.com/n3urovirtual/ML_Beginner_Course/blob/main/Basic%20Python%20Tutorial/Python_fundamentals.py) intended for people with no prior experience in Python. 
 
 All the Python scripts have been formatted using the [Black Code Style](https://black.readthedocs.io/en/stable/index.html), a PEP 8 compliant opinionated formatter. 
 
@@ -35,7 +35,7 @@ The project was developed using the Spyder IDE, which is included by default in 
 |                   | [Dimensionality Reduction](https://github.com/n3urovirtual/ML_Beginner_Course/tree/main/ML%20Algorithms/Dimensionality%20Reduction-PCA) | [Principal Component Analysis (PCA)](https://github.com/n3urovirtual/ML_Beginner_Course/tree/main/ML%20Algorithms/Dimensionality%20Reduction-PCA)|
 
 ## Resources - Credits
-On the [Useful Links - Credits](https://github.com/n3urovirtual/ML_Beginner_Course/blob/main/Useful%20Links%20-%20Credits.pdf) document you can find useful resources related to the theory and implementation of each algorithm. Some of these articles helped me during the development of this project and I would like to thank all those people who have put their knowledge out there for all of us. 
+On the [Useful Links - Credits](https://github.com/n3urovirtual/ML_Beginner_Course/blob/main/Useful%20Links%20-%20Credits.pdf) document you can find useful resources related to the theory and implementation of each algorithm. Some of these articles helped me during the development of this project and I would like to thank all those people who have put their knowledge out there for all of us. All the credits go to them! 
 
 ## Licenses
 This project is licensed under
